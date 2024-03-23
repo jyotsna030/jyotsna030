@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif" alt="girl coding" >
 
-- 🌱 I’m currently learning **I’m currently learning about advanced web development frameworks and algorithms.**
+- 🌱 **I’m currently learning about advanced web development frameworks and algorithms.**
 
 - 📫 How to reach me **jyotsnas0306@gmail.com**
 
