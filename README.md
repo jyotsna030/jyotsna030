@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotsna Shrivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.creativefabrica.com/wp-content/uploads/2022/06/21/Cute-Girl-Working-On-Computer-Graphics-32708930-1.jpg" alt="girl coding" >
+<h3 align="center">A tech enthusiast who loves turning ideas into real solutions. With skills in AI/ML, full-stack development, and UX design, I build projects that make a difference. From creating smart healthcare pipelines to improving digital platforms like BerryWiki, I focus on making technology simple and useful. As a Ex-C4GT'24 intern , Palantir Women in Tech finalist and SheFi Scholar, I’m dedicated to building innovative and user-friendly solutions that leave a positive impact.</h3>
 
 - 🌱 **I’m currently learning about advanced web development frameworks and algorithms.**
 
