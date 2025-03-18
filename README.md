@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyotsna Shrivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif" alt="girl coding" >
+<img src="https://www.creativefabrica.com/wp-content/uploads/2022/06/21/Cute-Girl-Working-On-Computer-Graphics-32708930-1.jpg" alt="girl coding" >
 
 - 🌱 **I’m currently learning about advanced web development frameworks and algorithms.**
 
